@@ -1,8 +1,7 @@
 # 🍽️ Reestar – Restaurant Website (HTML & CSS Practice Project)
 
 🌐 **Live Demo:**  
-👉 [https://yourusername.github.io/reestar-css-practice/](https://keerthana28116.github.io/reestar-css-practice/
-)
+👉 (https://keerthana28116.github.io/reestar-css-practice/)
 
 > ⚠️ **Note:** This is a personal practice project created for learning HTML and CSS.
 
