@@ -40,6 +40,12 @@ reestar-css-practice/
 
 ---
 
+## 🚀 Project Demo
+
+![Project Demo](assets/codenklearningcenter-gifdemo.gif)  
+
+---
+
 ## ✨ Features
 - 🖼️ Hero section with background image & overlay  
 - 🧾 Menu cards with smooth hover effects  
