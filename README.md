@@ -42,7 +42,7 @@ reestar-css-practice/
 
 ## 🚀 Project Demo
 
-![Project Demo](assets/codenklearningcenter-gifdemo.gif)  
+![Project Demo](demovideo/demo.gif)  
 
 ---
 
