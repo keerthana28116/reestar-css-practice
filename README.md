@@ -1,29 +1,35 @@
-# 🍽️ Reestar Restaurant Website
+<h1 align="center">🍽️ Reestar Restaurant Website</h1>
 
-🌐 **Live Demo:**  
-👉 https://keerthana28116.github.io/reestar-css-practice/
+<p align="center">
+  🌐 <strong>Live Demo</strong><br/>
+  👉 <a href="https://keerthana28116.github.io/reestar-css-practice/" target="_blank">
+    https://keerthana28116.github.io/reestar-css-practice/
+  </a>
+</p>
 
-
-> ⚠️ This is a **personal HTML & CSS practice project**.  
-> It is not associated with any real restaurant or business.
+<p align="center">
+  ⚠️ <em>This is a personal HTML & CSS practice project.</em><br/>
+  <em>Not associated with any real restaurant or business.</em>
+</p>
 
 ---
 
 ## 📌 Overview
-Reestar is a beginner-friendly **restaurant landing page** created to practice frontend basics such as layout design, styling, hover effects, and proper folder structure using HTML and CSS.
+**Reestar** is a beginner-friendly **restaurant landing page** built to practice frontend fundamentals.  
+This project focuses on creating a clean layout, improving visual hierarchy, and understanding responsive design using pure **HTML & CSS**.
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- GitHub Pages  
+- 🧱 **HTML5** – Structure  
+- 🎨 **CSS3** – Styling & layout  
+- 🌍 **GitHub Pages** – Hosting  
 
 ---
 
 ## 📂 Project Structure
 
-css/
+reestar-css-practice/
 
 ├── index.html # Main webpage
 
@@ -32,34 +38,39 @@ css/
 └── image/ # Image assets
 
 
-
 ---
 
 ## ✨ Features
-- Hero section with background image & overlay  
-- Menu cards with hover effects  
-- About Us and Contact sections  
-- Clean UI and readable layout  
-- Beginner-friendly structure  
+- 🖼️ Hero section with background image & overlay  
+- 🧾 Menu cards with smooth hover effects  
+- 🏪 About Us section  
+- 📞 Contact section  
+- 🎯 Clean UI with readable layout  
+- 🧑‍💻 Beginner-friendly code structure  
 
 ---
 
 ## 📘 What I Learned
-- Using Flexbox for layout  
-- Styling buttons and cards  
-- Managing image paths  
-- Creating hover animations  
-- Hosting a website using GitHub Pages  
+- 📐 Using **Flexbox** for layouts  
+- 🎨 Styling buttons, cards, and sections  
+- 🖼️ Managing image paths correctly  
+- ✨ Creating hover animations with CSS  
+- 🚀 Deploying a static website using **GitHub Pages**  
 
 ---
 
 ## 👩‍💻 Author
-**Keerthana P**  
-📧 Email: keerthana28116@gmail.com  
-🔗 GitHub: https://github.com/keerthana28116  
+**Keerthana P**
+
+- 📧 **Email:** keerthana28116@gmail.com  
+- 💼 **LinkedIn:**  
+  👉 https://www.linkedin.com/in/keerthana-p-954242305  
 
 ---
 
-⭐ *If you find this project useful, feel free to star the repository!*
+<p align="center">
+  ⭐ <em>If you find this project useful, feel free to star the repository!</em>
+</p>
+
 
 
