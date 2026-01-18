@@ -21,8 +21,8 @@ This project focuses on creating a clean layout, improving visual hierarchy, and
 ---
 
 ## 🛠️ Tech Stack
-- 🧱 **HTML5** – Structure  
-- 🎨 **CSS3** – Styling & layout  
+- 🧱 **HTML** – Structure  
+- 🎨 **CSS** – Styling & layout  
 - 🌍 **GitHub Pages** – Hosting  
 
 ---
